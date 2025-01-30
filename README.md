@@ -12,6 +12,5 @@ Easy Navigation: A user-friendly navigation menu is available across all pages, 
 Rich Content: We've organized our content to provide you with valuable insights, engaging articles, and essential information. Our pages are structured for clarity, using headings and concise text to enhance readability.
 
 Eye-catching Images: Our website features carefully selected images optimized for the web. We believe in the power of visuals to complement our content and convey our message effectively.
-## Contributors
-- Sonika Ramesh (https://github.com/iamsonuram)
-- Yashas R (https://github.com/Yashasrn33)
+
+this is new
